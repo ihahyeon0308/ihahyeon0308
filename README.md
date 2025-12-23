@@ -1,4 +1,17 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=81D8D0&animation=twinkling)
+<svg viewBox="0 0 1440 320" width="100%" height="120" xmlns="http://www.w3.org/2000/svg">
+  <path fill="#2a2f36" fill-opacity="1">
+    <animate 
+      attributeName="d"
+      dur="8s"
+      repeatCount="indefinite"
+      values="
+      M0,160L80,170C160,180,320,200,480,190C640,180,800,140,960,130C1120,120,1280,150,1440,160L1440,0L0,0Z;
+      M0,150L80,140C160,130,320,120,480,140C640,160,800,200,960,210C1120,220,1280,190,1440,170L1440,0L0,0Z;
+      M0,160L80,170C160,180,320,200,480,190C640,180,800,140,960,130C1120,120,1280,150,1440,160L1440,0L0,0Z
+      " />
+  </path>
+</svg>
+
 ![header](https://capsule-render.vercel.app/api?type=venom&color=81D8D0&height=300&text=%20%20%20%20Hi,%20I'm%20Hahyun%20Lee.-nl-Welcome%20to%20Lupico!!%20%20%20%20&fontSize=50&fontColor=8A2BE2)
 
 ## 🏫 Education
