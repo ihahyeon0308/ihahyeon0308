@@ -1,9 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=81D8D0&height=300&text=%20%20%20%20Hi,%20I'm%20Hahyun%20Lee.-nl-Welcome%20to%20Lupico!!%20%20%20%20&fontSize=50&fontColor=8A2BE2)
-## Information
----
-name : 이하현<br/>
-Affiliation : HUFS(Hankuk University of Foreign Studies)<br/>
-E-mail : 202501244@hufs.ac.kr
 
 ## 🏫 Education
 ---
