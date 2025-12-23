@@ -1,5 +1,13 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=81D8D0&height=300&text=%20%20%20%20Hi,%20I'm%20Hahyun%20Lee.-nl-Welcome%20to%20Lupico!!%20%20%20%20&fontSize=50&fontColor=8A2BE2		)
-%20
+![header](https://capsule-render.vercel.app/api?type=venom&color=81D8D0&height=300&text=%20%20%20%20Hi,%20I'm%20Hahyun%20Lee.-nl-Welcome%20to%20Lupico!!%20%20%20%20&fontSize=50&fontColor=8A2BE2)
+
+## 🛠 Dev Stacks
+---
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react)
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
 <!--
 **ihahyeon0308/ihahyeon0308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
