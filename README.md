@@ -1,5 +1,5 @@
 <svg viewBox="0 0 1440 320" width="100%" height="120" xmlns="http://www.w3.org/2000/svg">
-  <path fill="#2a2f36" fill-opacity="1">
+  <path fill="#2a2f36" fill-opacity="1"  d="M0,160L80,170C160,180,320,200,480,190C640,180,800,140,960,130C1120,120,1280,150,1440,160L1440,0L0,0Z">
     <animate 
       attributeName="d"
       dur="8s"
@@ -58,4 +58,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=wave&color=81D8D0&section=footer&animation=twinkling)
