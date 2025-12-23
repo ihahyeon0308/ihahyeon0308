@@ -1,4 +1,4 @@
-<svg viewBox="0 0 1440 320" width="100%" height="120" xmlns="http://www.w3.org/2000/svg">
+<!-- <svg viewBox="0 0 1440 320" width="100%" height="120" xmlns="http://www.w3.org/2000/svg">
   <path fill="#2a2f36" fill-opacity="1"  d="M0,160L80,170C160,180,320,200,480,190C640,180,800,140,960,130C1120,120,1280,150,1440,160L1440,0L0,0Z">
     <animate 
       attributeName="d"
@@ -10,7 +10,8 @@
       M0,160L80,170C160,180,320,200,480,190C640,180,800,140,960,130C1120,120,1280,150,1440,160L1440,0L0,0Z
       " />
   </path>
-</svg>
+</svg> -->
+![wave](https://your-wave.gif)
 
 ![header](https://capsule-render.vercel.app/api?type=venom&color=81D8D0&height=300&text=%20%20%20%20Hi,%20I'm%20Hahyun%20Lee.-nl-Welcome%20to%20Lupico!!%20%20%20%20&fontSize=50&fontColor=8A2BE2)
 
