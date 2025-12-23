@@ -26,9 +26,9 @@ Hankuk University of Foreign Studies (HUFS)
 
 ## Activities
 ---
-> **2025**<br/> <
-● Admission to the Department of Computer Science and Engineering, Hankuk University of Foreign Studies <br/>
-● Member of "TAB", Computer Science and Engineering Academic Society at HUFS
+> **2025**<br/>
+-● Admission to the Department of Computer Science and Engineering, Hankuk University of Foreign Studies <br/>
+-● Member of "TAB", Computer Science and Engineering Academic Society at HUFS
 <!--
 **ihahyeon0308/ihahyeon0308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
