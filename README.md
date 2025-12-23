@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=81D8D0)
+![header](https://capsule-render.vercel.app/api?type=wave&color=81D8D0&animation=twinkling)
 ![header](https://capsule-render.vercel.app/api?type=venom&color=81D8D0&height=300&text=%20%20%20%20Hi,%20I'm%20Hahyun%20Lee.-nl-Welcome%20to%20Lupico!!%20%20%20%20&fontSize=50&fontColor=8A2BE2)
 
 ## 🏫 Education
@@ -45,4 +45,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=wave&color=81D8D0&section=footer)
+![header](https://capsule-render.vercel.app/api?type=wave&color=81D8D0&section=footer&animation=twinkling)
