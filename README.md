@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=81D8D0&height=300&text=%20%20%20%20Hi,%20I'm%20Hahyun%20Lee.-nl-Welcome%20to%20Lupico!!%20%20%20%20&fontSize=50&fontColor=8A2BE2)
 ## Information
 ---
-name : 이하현
-Affiliation : HUFS(Hankuk University of Foreign Studies)
+name : 이하현<br/>
+Affiliation : HUFS(Hankuk University of Foreign Studies)<br/>
 E-mail : 202501244@hufs.ac.kr
 
 ## 🏫 Education
@@ -26,7 +26,7 @@ Hankuk University of Foreign Studies (HUFS)
 
 ## Activities
 ---
-> **2025**
+> **2025**<br/>
 > ● Admission to the Department of Computer Science and Engineering, Hankuk University of Foreign Studies
 > ● Member of "TAB", Computer Science and Engineering Academic Society at HUFS
 <!--
