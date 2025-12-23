@@ -1,5 +1,5 @@
 ## Hi, my name is Hahyun Lee. My nickname is Lupico!! 👋
-![header](https://capsule-render.vercel.app/api?type=venom&color=81D8D0&height=450&text=Hello%20I'm%20Lupico&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=venom&color=81D8D0&height=300&text=Hello%20I'm%20Lupico&fontSize=70)
 
 <!--
 **ihahyeon0308/ihahyeon0308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
