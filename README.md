@@ -1,11 +1,19 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=81D8D0&height=300&text=%20%20%20%20Hi,%20I'm%20Hahyun%20Lee.-nl-Welcome%20to%20Lupico!!%20%20%20%20&fontSize=50&fontColor=8A2BE2)
 
-## 🛠 Dev Stacks
+## 🏫 Education
+---
+<img width="354" height="354" alt="image" src="https://github.com/user-attachments/assets/1f0f2699-dbb6-4056-ad65-29823f24b831" />
+Hankuk University of Foreign Studies (HUFS)
+2025.03. ~ Present | Major: Computer Engineering
+
+## 🛠 Development Stacks
 ---
 
+#Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+#Backend
 ![Django](https://img.shields.io/badge/DJANGO-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Node.js](https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
