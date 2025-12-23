@@ -3,7 +3,7 @@
 ## 🏫 Education
 ---
 <img width="23" height="23" alt="image" src="https://github.com/user-attachments/assets/1f0f2699-dbb6-4056-ad65-29823f24b831" />
-Hankuk University of Foreign Studies (HUFS)
+Hankuk University of Foreign Studies (HUFS)<br/>
 2025.03. ~ Present | Major: Computer Science and Engineering
 <br/><br/>
 
