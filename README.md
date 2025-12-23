@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, my name is Hahyun Lee. My nickname is Lupico!! 👋
 
 <!--
 **ihahyeon0308/ihahyeon0308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
