@@ -10,23 +10,10 @@ Hankuk University of Foreign Studies (HUFS)<br/>
 ## 🛠 Development Stacks
 ---
 
-<table>
-  <tr>
-    <td>
-      <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihahyeon0308&layout=compact&bg_color=81D8D0"
-        width="400"
-      />
-    </td>
-    <td>
-      <img 
-        src="https://github-readme-stats.vercel.app/api?username=ihahyeon0308&show_icons=true&bg_color=81D8D0"
-        width="500"
-      />
-    </td>
-  </tr>
-</table>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_ID&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true&theme=tokyonight" />
+</p>
 
 ## ● Frontend <br/>
 
